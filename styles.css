@@ -1,0 +1,64 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+/*div{
+    border:red 1px solid;
+} */
+body{
+    background:black;
+    margin:0;
+}
+.post{
+    background:white;
+    margin:auto;
+    width:500px;
+}
+.logo{
+    display:inline-block;
+}
+.post-top i{
+    font-size: 30px;
+    padding:5px;
+}
+.left-post{
+    width:75%;
+    display:inline-block;
+}
+.left-post p{
+    margin:0;
+    padding:0;
+}
+.right-post{
+    width:15%;
+    display:inline-block;
+}
+.settings{
+    float:right;
+}
+.settings i{
+    font-size: 30px;
+    padding:10px;
+}
+.post-image img{
+    height:350px;
+    width:100%;
+}
+.post-para{
+    margin:0;
+    padding-bottom:15px;
+}
+.post-para ul{
+    margin:0;
+    padding:0 5px 0;
+}
+.post-para li{
+    display:inline;
+    height:40px;
+    width:40px;
+}
+.fa-bookmark{
+    float:right;
+}
+.post-para p{
+    margin: 10px 15px 20px;
+}
